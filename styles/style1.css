@@ -1,0 +1,32 @@
+#conteneur{
+    display :flex ;
+    width: 100%;
+    height: 200px;
+    box-sizing: border-box;
+    justify-content: center;
+    flex-direction: column;
+}
+.element1{
+    font-family: "Poppins", sans-serif;
+    font-size : 100%;
+    width: 80%;
+    box-sizing: border-box;
+    margin: 10px;
+    padding-left: 30%;
+}
+.element2{
+    font-family: "Poppins", sans-serif;   
+    font-size : 100%;
+    width: 80%;
+    box-sizing: border-box;
+    margin: 10px;
+    padding-left: 30%;
+}
+.element3{
+    font-family: "Poppins", sans-serif;   
+    font-size : 100%;
+    width: 80%;
+    box-sizing: border-box;
+    margin: 10px;
+    padding-left: 30%;
+}
